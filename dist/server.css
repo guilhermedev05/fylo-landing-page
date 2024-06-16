@@ -984,6 +984,10 @@ video {
     width: 40%;
   }
 
+  .lg\:w-\[120px\] {
+    width: 120px;
+  }
+
   .lg\:max-w-\[28\%\] {
     max-width: 28%;
   }
@@ -1018,6 +1022,10 @@ video {
 
   .lg\:items-start {
     align-items: flex-start;
+  }
+
+  .lg\:items-center {
+    align-items: center;
   }
 
   .lg\:justify-between {
